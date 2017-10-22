@@ -3,10 +3,7 @@ use warnings;
 use ExtUtils::MakeMaker;
 
 WriteMakefile(
-#	NAME         => '',
-#	AUTHOR       => '',
-#	VERSION_FROM => '',
-#	ABSTRACT     => '',
+	NAME         => 'MyMath',
 	PREREQ_PM => {
 	},
 );
